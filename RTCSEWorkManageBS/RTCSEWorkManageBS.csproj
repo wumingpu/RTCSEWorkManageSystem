@@ -663,6 +663,7 @@
     <Content Include="DailyReport\PersonalReport.aspx" />
     <Content Include="DailyReport\ReportList.aspx" />
     <Content Include="DashBoard.aspx" />
+    <Content Include="DBScript\DB20160506.sql" />
     <Content Include="dist\css\sb-admin-2.css" />
     <Content Include="dist\css\timeline.css" />
     <Content Include="dist\css\w3.css" />
